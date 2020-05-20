@@ -2,4 +2,4 @@
 Coursera IBM data science professional certificate capstone 
 
 
-Since github is not loading Folium maps please see map.jpeg for the map output result
+Since github is not loading Folium maps please see map.jpg for the map output result.
